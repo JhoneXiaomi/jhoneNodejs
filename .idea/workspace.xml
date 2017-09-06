@@ -2,288 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f997a17-5aba-42fe-a045-1132ae1a4b93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/images/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/images/0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/images/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/images/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/images/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/images/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/images/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/images/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/images/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/images/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/images/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/hello-sequelize/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/hello-sequelize/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/hello-sequelize/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/hello-sequelize/init.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/hello-sequelize/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/model-sequelize/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/model-sequelize/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/model-sequelize/config-default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/model-sequelize/config-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/model-sequelize/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/model-sequelize/db.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/model-sequelize/init-db.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/model-sequelize/init.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/model-sequelize/model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/model-sequelize/models/Pet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/model-sequelize/models/User.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/db/model-sequelize/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/hello-koa/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/hello-koa/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/url-koa/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/url-koa/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/url-koa/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/url2-koa/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/url2-koa/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/url2-koa/controllers/hello.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/url2-koa/controllers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/url2-koa/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/use-nunjucks/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/use-nunjucks/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/use-nunjucks/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/use-nunjucks/views/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/use-nunjucks/views/extend.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/use-nunjucks/views/hello.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/controllers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/controllers/signin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static-files.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/static/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/templating.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/views/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/views/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/views/signin-failed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/koa/view-koa/views/signin-ok.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/log/winston/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/log/winston/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/log/winston/logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/log/winston/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-hello/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-hello/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-hello/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-hello/controllers/api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-hello/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/controllers/api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/controllers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/products.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/rest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static-files.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/static/js/vue.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/templating.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/views/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/rest/rest-koa/views/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/async-test/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/async-test/data.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/async-test/hello.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/async-test/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/async-test/test/await-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/hello-test/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/hello-test/hello.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/hello-test/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/hello-test/test/hello-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/koa-test/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/koa-test/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/koa-test/start.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/test/koa-test/test/app-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static-files.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/form-vue/static/js/vue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static-files.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/hello-vue/static/js/vue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/controllers/api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/rest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/saved-docs/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static-files.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/js/excel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/mini-excel/static/js/vue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/controllers/api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/rest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static-files.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo-2/static/js/vue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static-files.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/vue/vue-todo/static/js/vue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/hello-ws/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/hello-ws/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/hello-ws/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/.vscode/launch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/controllers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/controllers/signin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/nginx-sample.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static-files.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/static/js/vue.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/templating.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/views/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/views/room.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ws/ws-with-koa/views/signin.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/koa/view-koa/.vscode/launch.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/koa/view-koa/package.json" afterPath="$PROJECT_DIR$/web/koa/view-koa/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -296,7 +17,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/koa/view-koa/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -330,6 +62,7 @@
         <option value="$PROJECT_DIR$/http/hello.js" />
         <option value="$PROJECT_DIR$/web/koa/hello-koa/package.json" />
         <option value="$PROJECT_DIR$/web/koa/hello-koa/app.js" />
+        <option value="$PROJECT_DIR$/web/koa/view-koa/package.json" />
       </list>
     </option>
   </component>
@@ -352,10 +85,11 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
     <handled-path value="$PROJECT_DIR$/web/koa/hello-koa/node_modules" />
     <handled-path value="$PROJECT_DIR$/web/koa/url2-koa/node_modules" />
+    <handled-path value="$PROJECT_DIR$/web/koa/view-koa/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="496" />
-    <option name="y" value="257" />
+    <option name="x" value="506" />
+    <option name="y" value="149" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -383,6 +117,24 @@
             <path>
               <item name="jhoneNodejs" type="b2602c69:ProjectViewProjectNode" />
               <item name="jhoneNodejs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jhoneNodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jhoneNodejs" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jhoneNodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jhoneNodejs" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="koa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jhoneNodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jhoneNodejs" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="koa" type="462c0819:PsiDirectoryNode" />
+              <item name="view-koa" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -422,27 +174,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.app.js (1)">
+  <component name="RunManager" selected="Node.js.app.js (2)">
     <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/web/koa/url2-koa" />
+    <configuration name="app.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/web/koa/view-koa" />
     <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/web/koa/hello-koa" />
     <configuration name="file_server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="file_server.js" working-dir="$PROJECT_DIR$/http" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jhoneNodejs/http/static/index.html" />
-    <configuration name="urls.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="urls.js" working-dir="$PROJECT_DIR$/http" />
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.urls.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.file_server.js" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.app.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.file_server.js" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.file_server.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.urls.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.file_server.js" />
       </list>
     </recent_temporary>
   </component>
@@ -472,11 +224,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504682409109</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="koa2 web 服务器模块">
+      <created>1504686720641</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1504686720641</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10238000" />
+    <option name="totallyTimeSpent" value="12552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -518,7 +277,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
     <MESSAGE value="http web 服务器模块" />
-    <option name="LAST_COMMIT_MESSAGE" value="http web 服务器模块" />
+    <MESSAGE value="koa2 web 服务器模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="koa2 web 服务器模块" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -738,6 +498,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
           <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/koa/view-koa/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/koa/view-koa/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="71" column="31" lean-forward="false" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/koa/view-koa/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
           <folding />
         </state>
       </provider>
